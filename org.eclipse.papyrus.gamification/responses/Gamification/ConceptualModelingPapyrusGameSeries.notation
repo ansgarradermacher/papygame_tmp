@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_8GydgAJjEeuL5qSweHC6Hw" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#01." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_9gpzcAJjEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_9gur8AJjEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_9gur8QJjEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9gur8gJjEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_9gvTAAJjEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_9gvTAQJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_9gvTAgJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_9gvTAwJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gvTBAJjEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_9gvTBQJjEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_9gvTBgJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_9gvTBwJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_9gvTCAJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gvTCQJjEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_9gvTCgJjEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_9gvTCwJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_9gvTDAJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_9gvTDQJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gvTDgJjEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_9gZUwAJjEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gpzcQJjEeuL5qSweHC6Hw" x="50" y="35" width="151"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_-g3TQAJjEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_-g36UAJjEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_-g36UQJjEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_-g36UgJjEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_-g36UwJjEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_-g36VAJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_-g36VQJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_-g36VgJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-g36VwJjEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_-g36WAJjEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_-g36WQJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_-g36WgJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_-g36WwJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-g36XAJjEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_-g36XQJjEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_-g36XgJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_-g36XwJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_-g36YAJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-g36YQJjEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_-gzB0AJjEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-g3TQQJjEeuL5qSweHC6Hw" x="242" y="35" width="151"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="__dc3UAJjEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="__dc3UgJjEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="__dc3UwJjEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__dc3VAJjEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="__ddeYAJjEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="__ddeYQJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="__ddeYgJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="__ddeYwJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__ddeZAJjEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="__ddeZQJjEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="__ddeZgJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="__ddeZwJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="__ddeaAJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__ddeaQJjEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="__ddeagJjEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="__ddeawJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="__ddebAJjEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="__ddebQJjEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__ddebgJjEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#__dabEAJjEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="__dc3UQJjEeuL5qSweHC6Hw" x="435" y="35" width="151"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_8GydgQJjEeuL5qSweHC6Hw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_8GydggJjEeuL5qSweHC6Hw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_8GydgwJjEeuL5qSweHC6Hw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_ekRv8AJlEeuL5qSweHC6Hw" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#02." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_e1usUAJlEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_e1usUgJlEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_e1usUwJlEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_e1usVAJlEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1usVQJlEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_oR9WMAJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_oR5r0AJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_oR9WMQJlEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_oejnwAJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_oehykAJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_oejnwQJlEeuL5qSweHC6Hw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1usVgJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1usVwJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1usWAJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1usWQJlEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1usWgJlEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1usWwJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1usXAJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1usXQJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1usXgJlEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1usXwJlEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1usYAJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1usYQJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1usYgJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1usYwJlEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_e1jtMAJlEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1usUQJlEeuL5qSweHC6Hw" x="245" y="20" width="169"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_e1vTYAJlEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_e1vTYgJlEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_e1vTYwJlEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_e1vTZAJlEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1v6cAJlEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_otVDkAJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_otTOYAJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_otVDkQJlEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_pNhmkAJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_pNfKUAJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_pNhmkQJlEeuL5qSweHC6Hw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1v6cQJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1v6cgJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1v6cwJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1v6dAJlEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1v6dQJlEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1v6dgJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1v6dwJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1v6eAJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1v6eQJlEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1v6egJlEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1v6ewJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1v6fAJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1v6fQJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1v6fgJlEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_e1jGIAJlEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1vTYQJlEeuL5qSweHC6Hw" x="455" y="20"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_e1v6fwJlEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_e1whgQJlEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_e1whggJlEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_e1whgwJlEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1whhAJlEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_kDM2wAJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_kDH-QAJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_kDM2wQJlEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_pmJh8AJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_pmHFsAJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_pmJh8QJlEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_qaeh4AJlEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_qaS7sAJlEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_qaeh4QJlEeuL5qSweHC6Hw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1whhQJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1whhgJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1whhwJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1whiAJlEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1whiQJlEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1whigJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1whiwJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1whjAJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1whjQJlEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_e1whjgJlEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_e1whjwJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_e1whkAJlEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_e1whkQJlEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1whkgJlEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_e1kUQAJlEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e1whgAJlEeuL5qSweHC6Hw" x="35" y="20" width="169" height="109"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_ekRv8QJlEeuL5qSweHC6Hw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_ekRv8gJlEeuL5qSweHC6Hw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_ekRv8wJlEeuL5qSweHC6Hw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_SkZysAJnEeuL5qSweHC6Hw" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#04." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_TnrNkAJnEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Tnr0oAJnEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Tnr0oQJnEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Tnr0ogJnEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Tnr0owJnEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_dKOh4AJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoxUQJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_dKOh4QJnEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_dKUBcAJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoxUgJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_dKUBcQJnEeuL5qSweHC6Hw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Tnr0pAJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Tnr0pQJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Tnr0pgJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tnr0pwJnEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Tnr0qAJnEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Tnr0qQJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Tnr0qgJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Tnr0qwJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tnr0rAJnEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Tnr0rQJnEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Tnr0rgJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Tnr0rwJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Tnr0sAJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tnr0sQJnEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_TnoxUAJnEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TnrNkQJnEeuL5qSweHC6Hw" x="455" y="70" width="148"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_TnsbsAJnEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_TnsbsgJnEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_TnsbswJnEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TnsbtAJnEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_TnsbtQJnEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_eTyyAAJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Tnp_cQJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_eTyyAQJnEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eT3qgAJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Tnp_cgJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_eT3qgQJnEeuL5qSweHC6Hw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_TnsbtgJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_TnsbtwJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_TnsbuAJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TnsbuQJnEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_TntCwAJnEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_TntCwQJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_TntCwgJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_TntCwwJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TntCxAJnEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_TntCxQJnEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_TntCxgJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_TntCxwJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_TntCyAJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TntCyQJnEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_Tnp_cAJnEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TnsbsQJnEeuL5qSweHC6Hw" x="455" y="290"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_TntCygJnEeuL5qSweHC6Hw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_TntCzAJnEeuL5qSweHC6Hw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Tntp0AJnEeuL5qSweHC6Hw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Tntp0QJnEeuL5qSweHC6Hw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Tntp0gJnEeuL5qSweHC6Hw" type="Class_AttributeCompartment">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_a6qSoASOEeui14F2MVxGJw" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_a6qSoQSOEeui14F2MVxGJw" key="showTitle" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:Shape" xmi:id="_cEiFIAJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <styles xmi:type="notation:StringListValueStyle" xmi:id="_CUgKUASQEeui14F2MVxGJw" name="maskLabel">
+            <stringListValue>multiplicity</stringListValue>
+            <stringListValue>visibility</stringListValue>
+            <stringListValue>name</stringListValue>
+            <stringListValue>type</stringListValue>
+            <stringListValue>derived</stringListValue>
+          </styles>
+          <styles xmi:type="notation:BooleanValueStyle" xmi:id="_IBx2MASQEeui14F2MVxGJw" name="shapeVisibility"/>
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQQJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cEiFIQJnEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_cEoLwAJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQgJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cEoLwQJnEeuL5qSweHC6Hw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_cEu5cAJnEeuL5qSweHC6Hw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQwJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cEu5cQJnEeuL5qSweHC6Hw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Tntp0wJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Tntp1AJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Tntp1QJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tntp1gJnEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Tntp1wJnEeuL5qSweHC6Hw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Tntp2AJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Tntp2QJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Tntp2gJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tntp2wJnEeuL5qSweHC6Hw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Tntp3AJnEeuL5qSweHC6Hw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Tntp3QJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Tntp3gJnEeuL5qSweHC6Hw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Tntp3wJnEeuL5qSweHC6Hw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tntp4AJnEeuL5qSweHC6Hw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQAJnEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TntCywJnEeuL5qSweHC6Hw" x="95" y="190" width="148" height="109"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_SkZysQJnEeuL5qSweHC6Hw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_SkZysgJnEeuL5qSweHC6Hw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_SkZyswJnEeuL5qSweHC6Hw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    <edges xmi:type="notation:Connector" xmi:id="_osOlcAJnEeuL5qSweHC6Hw" type="Association_Edge" source="_TntCygJnEeuL5qSweHC6Hw" target="_TnrNkAJnEeuL5qSweHC6Hw" routing="Rectilinear">
+      <children xmi:type="notation:DecorationNode" xmi:id="_osOlcwJnEeuL5qSweHC6Hw" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqSJIAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_osOldAJnEeuL5qSweHC6Hw" x="1" y="-17"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_osOldQJnEeuL5qSweHC6Hw" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqYPwAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_osOldgJnEeuL5qSweHC6Hw" x="8" y="-11"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_osPMgAJnEeuL5qSweHC6Hw" type="Association_TargetRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqdvUAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_osPMgQJnEeuL5qSweHC6Hw" x="13" y="-30"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_osPMggJnEeuL5qSweHC6Hw" type="Association_SourceRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqlrIAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_osPMgwJnEeuL5qSweHC6Hw" x="-35" y="-11"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_osPMhAJnEeuL5qSweHC6Hw" type="Association_SourceMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqrxwAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_osPMhQJnEeuL5qSweHC6Hw" x="13" y="10"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_osPMhgJnEeuL5qSweHC6Hw" type="Association_TargetMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqztkAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_osPMhwJnEeuL5qSweHC6Hw" x="-15" y="14"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_osOlcQJnEeuL5qSweHC6Hw"/>
+      <element xmi:type="uml:Association" href="ConceptualModelingPapyrusGameSeries.uml#_or7qgAJnEeuL5qSweHC6Hw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_osOlcgJnEeuL5qSweHC6Hw" points="[170, 150, -643984, -643984]$[170, 128, -643984, -643984]$[455, 128, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_osj8oAJnEeuL5qSweHC6Hw" id="(0.5067567567567568,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_osj8oQJnEeuL5qSweHC6Hw" id="(0.0,0.5321100917431193)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_pVjPQAJnEeuL5qSweHC6Hw" type="Association_Edge" source="_TntCygJnEeuL5qSweHC6Hw" target="_TnsbsAJnEeuL5qSweHC6Hw" routing="Rectilinear">
+      <children xmi:type="notation:DecorationNode" xmi:id="_pVjPQwJnEeuL5qSweHC6Hw" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p_FUcAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pVjPRAJnEeuL5qSweHC6Hw" y="-18"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pVjPRQJnEeuL5qSweHC6Hw" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p_MpMAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pVjPRgJnEeuL5qSweHC6Hw" y="-13"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pVjPRwJnEeuL5qSweHC6Hw" type="Association_TargetRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p_T98AJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pVjPSAJnEeuL5qSweHC6Hw" x="13" y="25"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pVjPSQJnEeuL5qSweHC6Hw" type="Association_SourceRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p_aroAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pVjPSgJnEeuL5qSweHC6Hw" x="-38" y="-13"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pVjPSwJnEeuL5qSweHC6Hw" type="Association_SourceMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p_hZUAJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pVjPTAJnEeuL5qSweHC6Hw" x="18" y="-10"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_pVjPTQJnEeuL5qSweHC6Hw" type="Association_TargetMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p_nf8AJnEeuL5qSweHC6Hw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pVjPTgJnEeuL5qSweHC6Hw" x="-15" y="12"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_pVjPQQJnEeuL5qSweHC6Hw"/>
+      <element xmi:type="uml:Association" href="ConceptualModelingPapyrusGameSeries.uml#_pVTXoAJnEeuL5qSweHC6Hw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pVjPQgJnEeuL5qSweHC6Hw" points="[152, 274, -643984, -643984]$[152, 365, -643984, -643984]$[455, 365, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pV_UIAJnEeuL5qSweHC6Hw" id="(0.5067567567567568,1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pV_UIQJnEeuL5qSweHC6Hw" id="(0.0,0.6880733944954128)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_8TDasASOEeui14F2MVxGJw" type="Generalization_Edge" source="_TnsbsAJnEeuL5qSweHC6Hw" target="_TnrNkAJnEeuL5qSweHC6Hw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_8TFP4ASOEeui14F2MVxGJw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_VfTjYA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_8TFP4QSOEeui14F2MVxGJw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_8TDasQSOEeui14F2MVxGJw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_8SuDgASOEeui14F2MVxGJw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_8TDasgSOEeui14F2MVxGJw"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8ToCcASOEeui14F2MVxGJw" id="(0.5405405405405406,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_8ToCcQSOEeui14F2MVxGJw" id="(0.5405405405405406,1.0)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_-02vsAP3EeuNYqSDYTHBdg" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#06." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_cR74wAP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_cR8f0AP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_cR8f0QP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_cR8f0gP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_cR9G4AP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_cR9G4QP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_cR9G4gP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_cR9G4wP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cR9G5AP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_cR9G5QP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_cR9G5gP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_cR9G5wP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_cR9G6AP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cR9G6QP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_cR9G6gP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_cR9G6wP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_cR9G7AP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_cR9G7QP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cR9G7gP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_cR1yIAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cR74wQP4EeuNYqSDYTHBdg" x="440" y="20" height="45"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_gLu00AP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_gLvb4AP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_gLvb4QP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_gLvb4gP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_gLvb4wP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_gLvb5AP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gLvb5QP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gLvb5gP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gLvb5wP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_gLvb6AP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_gLvb6QP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gLvb6gP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gLvb6wP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gLvb7AP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_gLvb7QP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_gLvb7gP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_gLvb7wP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_gLvb8AP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gLvb8QP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_gLtmsAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gLu00QP4EeuNYqSDYTHBdg" x="345" y="135" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_jXci4AP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_jXdJ8AP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_jXdJ8QP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jXdJ8gP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_jXdJ8wP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_jXdJ9AP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_jXdJ9QP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_jXdJ9gP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jXdJ9wP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_jXdJ-AP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_jXdJ-QP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_jXdJ-gP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_jXdJ-wP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jXdJ_AP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_jXdxAAP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_jXdxAQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_jXdxAgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_jXdxAwP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jXdxBAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_jXaGoAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jXci4QP4EeuNYqSDYTHBdg" x="140" y="135" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_k4Mj8AP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_k4NLAAP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_k4NLAQP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_k4NLAgP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_k4NLAwP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_k4NLBAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_k4NLBQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_k4NLBgP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k4NLBwP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_k4NLCAP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_k4NLCQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_k4NLCgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_k4NLCwP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k4NLDAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_k4NLDQP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_k4NLDgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_k4NLDwP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_k4NLEAP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k4NLEQP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_k4KHsAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k4Mj8QP4EeuNYqSDYTHBdg" x="505" y="140" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_p1oHQAP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_p1ouUAP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_p1ouUQP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_p1ouUgP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_p1ouUwP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_p1ouVAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_p1ouVQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_p1ouVgP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p1ouVwP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_p1ouWAP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_p1ouWQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_p1ouWgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_p1ouWwP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p1ouXAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_p1ouXQP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_p1ouXgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_p1ouXwP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_p1ouYAP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p1ouYQP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_p1mSEAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p1oHQQP4EeuNYqSDYTHBdg" x="425" y="235" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_rDclQAP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_rDdMUAP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_rDdMUQP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rDdMUgP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_rDdMUwP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_rDdMVAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_rDdMVQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_rDdMVgP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rDdMVwP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_rDdMWAP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_rDdMWQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_rDdMWgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_rDdMWwP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rDdMXAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_rDdMXQP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_rDdMXgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_rDdMXwP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_rDdMYAP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rDdMYQP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_rDawEAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rDclQQP4EeuNYqSDYTHBdg" x="565" y="235" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_r7pYkAP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_r7p_oAP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_r7p_oQP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_r7p_ogP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_r7p_owP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_r7p_pAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_r7p_pQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_r7p_pgP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r7p_pwP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_r7p_qAP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_r7p_qQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_r7p_qgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_r7p_qwP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r7p_rAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_r7qmsAP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_r7qmsQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_r7qmsgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_r7qmswP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r7qmtAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_r7m8UAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r7pYkQP4EeuNYqSDYTHBdg" x="755" y="135" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_tQ9lsAP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_tQ9lsgP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_tQ9lswP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_tQ9ltAP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_tQ9ltQP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_tQ9ltgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_tQ9ltwP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_tQ-MwAP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tQ-MwQP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_tQ-MwgP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_tQ-MwwP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_tQ-MxAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_tQ-MxQP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tQ-MxgP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_tQ-MxwP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_tQ-MyAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_tQ-MyQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_tQ-MygP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tQ-MywP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_tQ7JcAP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tQ9lsQP4EeuNYqSDYTHBdg" x="695" y="235" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_uXz5AAP4EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_uX0gEAP4EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_uX0gEQP4EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_uX0gEgP4EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_uX0gEwP4EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_uX0gFAP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_uX0gFQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_uX0gFgP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uX0gFwP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_uX0gGAP4EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_uX0gGQP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_uX0gGgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_uX0gGwP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uX0gHAP4EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_uX0gHQP4EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_uX0gHgP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_uX0gHwP4EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_uX0gIAP4EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uX0gIQP4EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_uXyD0AP4EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uXz5AQP4EeuNYqSDYTHBdg" x="825" y="235" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_MCn8EAP5EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_MCojIAP5EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_MCojIQP5EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MCojIgP5EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_MCojIwP5EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_MCojJAP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_MCojJQP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_MCojJgP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MCojJwP5EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_MCojKAP5EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_MCojKQP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_MCojKgP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_MCojKwP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MCojLAP5EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_MCojLQP5EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_MCojLgP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_MCojLwP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_MCojMAP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MCojMQP5EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_MCmG4AP5EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MCn8EQP5EeuNYqSDYTHBdg" x="355" y="440" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_MwBNkAP5EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_MwBNkgP5EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_MwB0oAP5EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MwB0oQP5EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_MwB0ogP5EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_MwB0owP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_MwB0pAP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_MwB0pQP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MwB0pgP5EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_MwB0pwP5EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_MwB0qAP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_MwB0qQP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_MwB0qgP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MwB0qwP5EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_MwB0rAP5EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_MwB0rQP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_MwB0rgP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_MwB0rwP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MwB0sAP5EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_Mv_YYAP5EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MwBNkQP5EeuNYqSDYTHBdg" x="485" y="340" height="41"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_PcxuwAP5EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_PcyV0AP5EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_PcyV0QP5EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_PcyV0gP5EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_PcyV0wP5EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_PcyV1AP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_PcyV1QP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_PcyV1gP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PcyV1wP5EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_PcyV2AP5EeuNYqSDYTHBdg" visible="false" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_PcyV2QP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_PcyV2gP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_PcyV2wP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PcyV3AP5EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_PcyV3QP5EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_PcyV3gP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_PcyV3wP5EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_PcyV4AP5EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PcyV4QP5EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_Pcv5kAP5EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PcxuwQP5EeuNYqSDYTHBdg" x="355" y="340" height="41"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_-02vsQP3EeuNYqSDYTHBdg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_-03WwAP3EeuNYqSDYTHBdg"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_-03WwQP3EeuNYqSDYTHBdg" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    <edges xmi:type="notation:Connector" xmi:id="_jTzuIAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_MCn8EAP5EeuNYqSDYTHBdg" target="_PcxuwAP5EeuNYqSDYTHBdg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_okS3QA41Eeu02tjlZ0AV8Q" source="PapyrusCSSForceValue">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_okTeUA41Eeu02tjlZ0AV8Q" key="routing" value="true"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_jTzuIwP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uAky0AP6EeuNYqSDYTHBdg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jTzuJAP6EeuNYqSDYTHBdg" y="38"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_jTzuIQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_jTovAAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jTzuIgP6EeuNYqSDYTHBdg"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jURoMAP6EeuNYqSDYTHBdg" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_jURoMQP6EeuNYqSDYTHBdg" id="(0.5,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_j7BfIAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_PcxuwAP5EeuNYqSDYTHBdg" target="_p1oHQAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_j7CGMAP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_467LEAP7EeuNYqSDYTHBdg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_j7CGMQP6EeuNYqSDYTHBdg" y="39"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_j7BfIQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_j648QAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_j7BfIgP6EeuNYqSDYTHBdg" points="[405, 340, -643984, -643984]$[405, 308, -643984, -643984]$[469, 308, -643984, -643984]$[469, 276, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j7XdYAP6EeuNYqSDYTHBdg" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j7XdYQP6EeuNYqSDYTHBdg" id="(0.44,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_kqcJ4AP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_MwBNkAP5EeuNYqSDYTHBdg" target="_p1oHQAP4EeuNYqSDYTHBdg" routing="Tree">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_tKMEUA41Eeu02tjlZ0AV8Q" source="PapyrusCSSForceValue">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_tKMEUQ41Eeu02tjlZ0AV8Q" key="routing" value="true"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_kqcJ4wP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_47HYUAP7EeuNYqSDYTHBdg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_kqcJ5AP6EeuNYqSDYTHBdg" x="-1" y="38"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_kqcJ4QP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_kqTnAAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kqcJ4gP6EeuNYqSDYTHBdg" points="[535, 340, -643984, -643984]$[535, 308, -643984, -643984]$[469, 308, -643984, -643984]$[469, 276, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kqwS8AP6EeuNYqSDYTHBdg" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kqwS8QP6EeuNYqSDYTHBdg" id="(0.44,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_lTyB0AP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_p1oHQAP4EeuNYqSDYTHBdg" target="_k4Mj8AP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_lTyB0wP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_46yBIAP7EeuNYqSDYTHBdg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lTyB1AP6EeuNYqSDYTHBdg" y="38"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_lTyB0QP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_lTpe8AP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lTyB0gP6EeuNYqSDYTHBdg" points="[470, 235, -643984, -643984]$[470, 208, -643984, -643984]$[545, 208, -643984, -643984]$[545, 176, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lUEVsAP6EeuNYqSDYTHBdg" id="(0.45,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lUEVsQP6EeuNYqSDYTHBdg" id="(0.4,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_l3gZ8AP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_rDclQAP4EeuNYqSDYTHBdg" target="_k4Mj8AP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_l3gZ8wP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bXLVsA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_l3gZ9AP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_l3gZ8QP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_l3XQAAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_l3gZ8gP6EeuNYqSDYTHBdg" points="[615, 235, -643984, -643984]$[615, 208, -643984, -643984]$[554, 208, -643984, -643984]$[554, 181, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l3xfsAP6EeuNYqSDYTHBdg" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l3xfsQP6EeuNYqSDYTHBdg" id="(0.49,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_mdQyYAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_tQ9lsAP4EeuNYqSDYTHBdg" target="_r7pYkAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_mdRZcAP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bXe3sA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_mdRZcQP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_mdQyYQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_mdIPgAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mdQyYgP6EeuNYqSDYTHBdg" points="[750, 235, -643984, -643984]$[750, 208, -643984, -643984]$[804, 208, -643984, -643984]$[804, 176, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mdjtUAP6EeuNYqSDYTHBdg" id="(0.55,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mdjtUQP6EeuNYqSDYTHBdg" id="(0.49,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_m8g6MAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_uXz5AAP4EeuNYqSDYTHBdg" target="_r7pYkAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_m8g6MwP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bXiiEA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_m8hhQAP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_m8g6MQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_m8YXUAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_m8g6MgP6EeuNYqSDYTHBdg" points="[875, 235, -643984, -643984]$[875, 208, -643984, -643984]$[804, 208, -643984, -643984]$[804, 176, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_m86i0AP6EeuNYqSDYTHBdg" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_m86i0QP6EeuNYqSDYTHBdg" id="(0.49,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_njdlcAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_gLu00AP4EeuNYqSDYTHBdg" target="_cR74wAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_njdlcwP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bXUfoA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_njdldAP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_njdlcQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_njUbgAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_njdlcgP6EeuNYqSDYTHBdg" points="[395, 135, -643984, -643984]$[395, 97, -643984, -643984]$[490, 97, -643984, -643984]$[490, 65, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njv5UAP6EeuNYqSDYTHBdg" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_njv5UQP6EeuNYqSDYTHBdg" id="(0.5,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_oJpbsAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_jXci4AP4EeuNYqSDYTHBdg" target="_cR74wAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_oJqCwAP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bW_vgA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oJqCwQP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_oJpbsQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_oJg40AP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oJpbsgP6EeuNYqSDYTHBdg" points="[180, 100, -643984, -643984]$[180, 97, -643984, -643984]$[490, 97, -643984, -643984]$[490, 65, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oJ7vkAP6EeuNYqSDYTHBdg" id="(0.4,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_oJ7vkQP6EeuNYqSDYTHBdg" id="(0.5,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_oseb8AP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_k4Mj8AP4EeuNYqSDYTHBdg" target="_cR74wAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_oseb8wP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bXHEQA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oseb9AP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_oseb8QP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_osV5EAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oseb8gP6EeuNYqSDYTHBdg" points="[560, 100, -643984, -643984]$[560, 97, -643984, -643984]$[490, 97, -643984, -643984]$[490, 65, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_osylAAP6EeuNYqSDYTHBdg" id="(0.55,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_osylAQP6EeuNYqSDYTHBdg" id="(0.5,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_pNe3QAP6EeuNYqSDYTHBdg" type="Generalization_Edge" source="_r7pYkAP4EeuNYqSDYTHBdg" target="_cR74wAP4EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_pNe3QwP6EeuNYqSDYTHBdg" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_bXamQA41Eeu02tjlZ0AV8Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pNe3RAP6EeuNYqSDYTHBdg" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_pNe3QQP6EeuNYqSDYTHBdg"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_pNWUYAP6EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pNe3QgP6EeuNYqSDYTHBdg" points="[830, 135, -643984, -643984]$[830, 97, -643984, -643984]$[490, 97, -643984, -643984]$[490, 65, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pN5G8AP6EeuNYqSDYTHBdg" id="(0.75,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pN5G8QP6EeuNYqSDYTHBdg" id="(0.5,1.0)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_cc7ZEAP-EeuNYqSDYTHBdg" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#07." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_iHl10AP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHmc4AP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHmc4QP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHmc4gP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHmc4wP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHmc5AP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHmc5QP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHmc5gP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHmc5wP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHmc6AP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHmc6QP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHmc6gP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHmc6wP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHmc7AP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHmc7QP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHmc7gP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHmc7wP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHmc8AP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHmc8QP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHjZkAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHl10QP-EeuNYqSDYTHBdg" x="795" y="365" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHmc8gP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHmc9AP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHmc9QP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHmc9gP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnD8AP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnD8QP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnD8gP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnD8wP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnD9AP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnD9QP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_IHOGIAcdEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_IHMQ8AcdEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_IHOGIQcdEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnD9gP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnD9wP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnD-AP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnD-QP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnD-gP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnD-wP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnD_AP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnD_QP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnD_gP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHknsAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHmc8wP-EeuNYqSDYTHBdg" x="-120" y="818" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHnD_wP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHnEAQP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHnEAgP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHnEAwP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnEBAP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnEBQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnEBgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnEBwP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnECAP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnECQP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnECgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnECwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnEDAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnEDQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnEDgP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnEDwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnEEAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnEEQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnEEgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHjZkgP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnEAAP-EeuNYqSDYTHBdg" x="40" y="520" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHnrAAP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHnrAgP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHnrAwP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHnrBAP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnrBQP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnrBgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnrBwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnrCAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnrCQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnrCgP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_tW2-0AcYEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_tW1JoAcYEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_tW2-0QcYEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnrCwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnrDAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnrDQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnrDgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHnrDwP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHnrEAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHnrEQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHnrEgP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnrEwP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHjZlAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHnrAQP-EeuNYqSDYTHBdg" x="645" y="520" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHoSEAP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHoSEgP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHoSEwP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHoSFAP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHoSFQP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHoSFgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHoSFwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHoSGAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHoSGQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHoSGgP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHoSGwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHoSHAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHoSHQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHoSHgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHoSHwP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHoSIAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHoSIQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHoSIgP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHoSIwP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHkAowP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHoSEQP-EeuNYqSDYTHBdg" x="325" y="520" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHoSJAP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHoSJgP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHoSJwP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHoSKAP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHoSKQP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHoSKgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHoSKwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHoSLAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHoSLQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHo5IAP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_m3_I0AcWEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_m3wfUAcWEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_m3_v4AcWEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHo5IQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHo5IgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHo5IwP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHo5JAP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHo5JQP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHo5JgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHo5JwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHo5KAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHo5KQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHkAogP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHoSJQP-EeuNYqSDYTHBdg" x="195" y="25" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHo5KgP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHo5LAP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHo5LQP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHo5LgP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHpgMAP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHpgMQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHpgMgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHpgMwP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHpgNAP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHpgNQP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHpgNgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHpgNwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHpgOAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHpgOQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHpgOgP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHpgOwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHpgPAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHpgPQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHpgPgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHiygAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHo5KwP-EeuNYqSDYTHBdg" x="205" y="365" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHpgPwP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHpgQQP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHqHQAP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHqHQQP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHqHQgP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHqHQwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHqHRAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHqHRQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHRgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHqHRwP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_w32j4AcZEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_w30HoAcZEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_w32j4QcZEeuAPcSFXlXQWw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_yIMxcAcZEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_yIK8QAcZEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_yIMxcQcZEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHqHSAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHqHSQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHqHSgP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHSwP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHqHTAP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHqHTQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHqHTgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHqHTwP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHUAP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHiLcAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHpgQAP-EeuNYqSDYTHBdg" x="940" y="520" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHqHUQP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHqHUwP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHqHVAP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHqHVQP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHqHVgP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHqHVwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHqHWAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHqHWQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHWgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHqHWwP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHqHXAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHqHXQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHqHXgP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHXwP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHqHYAP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHqHYQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHqHYgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHqHYwP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHZAP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHkAoAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHqHUgP-EeuNYqSDYTHBdg" x="40" y="655" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHquUAP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHquUgP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHquUwP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHquVAP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHquVQP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHquVgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHquVwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHquWAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHquWQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHquWgP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_wXmEkAcbEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_wXjoUAcbEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_wXmEkQcbEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHquWwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHquXAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHquXQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHquXgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHquXwP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHquYAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHquYQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHquYgP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHquYwP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHhkYAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHquUQP-EeuNYqSDYTHBdg" x="195" y="180" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHrVYAP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHrVYgP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHrVYwP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHrVZAP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHrVZQP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHrVZgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHrVZwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHrVaAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHrVaQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHrVagP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_U6NQcAcdEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_U59Y0AcdEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_U6NQcQcdEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHrVawP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHrVbAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHrVbQP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHrVbgP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHrVbwP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHrVcAP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHrVcQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHrVcgP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHrVcwP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHiyhAP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHrVYQP-EeuNYqSDYTHBdg" x="190" y="818" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_iHr8cAP-EeuNYqSDYTHBdg" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHr8cgP-EeuNYqSDYTHBdg" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_iHr8cwP-EeuNYqSDYTHBdg" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iHr8dAP-EeuNYqSDYTHBdg" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHr8dQP-EeuNYqSDYTHBdg" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHr8dgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHr8dwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHr8eAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHr8eQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHsjgAP-EeuNYqSDYTHBdg" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHsjgQP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHsjggP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHsjgwP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHsjhAP-EeuNYqSDYTHBdg"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_iHsjhQP-EeuNYqSDYTHBdg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_iHsjhgP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_iHsjhwP-EeuNYqSDYTHBdg"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_iHsjiAP-EeuNYqSDYTHBdg"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHsjiQP-EeuNYqSDYTHBdg"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_iHiyggP-EeuNYqSDYTHBdg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iHr8cQP-EeuNYqSDYTHBdg" x="-115" y="180" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_GalpYAcWEeuAPcSFXlXQWw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_GamQcAcWEeuAPcSFXlXQWw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_GamQcQcWEeuAPcSFXlXQWw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_GamQcgcWEeuAPcSFXlXQWw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_GamQcwcWEeuAPcSFXlXQWw" visible="false" type="Class_AttributeCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_GamQdAcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_GamQdQcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_GamQdgcWEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GamQdwcWEeuAPcSFXlXQWw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_GamQeAcWEeuAPcSFXlXQWw" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_UnJ1wAcWEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_Um9BcAcWEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_UnKc0AcWEeuAPcSFXlXQWw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_01MqkAcWEeuAPcSFXlXQWw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_01K1YAcWEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_01MqkQcWEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_GamQeQcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_GamQegcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_GamQewcWEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GamQfAcWEeuAPcSFXlXQWw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_GamQfQcWEeuAPcSFXlXQWw" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_GamQfgcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_GamQfwcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_GamQgAcWEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GamQgQcWEeuAPcSFXlXQWw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_GZ-lYAcWEeuAPcSFXlXQWw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GalpYQcWEeuAPcSFXlXQWw" x="505" y="180" width="271" height="81"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_fFJeoAcWEeuAPcSFXlXQWw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_fFJeogcWEeuAPcSFXlXQWw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_fFJeowcWEeuAPcSFXlXQWw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fFJepAcWEeuAPcSFXlXQWw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fFJepQcWEeuAPcSFXlXQWw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_g7ricAcWEeuAPcSFXlXQWw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_g7bDwAcWEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_g7ricQcWEeuAPcSFXlXQWw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_kKscIAcWEeuAPcSFXlXQWw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_kKkgUAcWEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_kKscIQcWEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fFJepgcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fFJepwcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fFJeqAcWEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFJeqQcWEeuAPcSFXlXQWw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fFKFsAcWEeuAPcSFXlXQWw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fFKFsQcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fFKFsgcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fFKFswcWEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFKFtAcWEeuAPcSFXlXQWw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fFKFtQcWEeuAPcSFXlXQWw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fFKFtgcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fFKFtwcWEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fFKFuAcWEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFKFuQcWEeuAPcSFXlXQWw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_fFGbUAcWEeuAPcSFXlXQWw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFJeoQcWEeuAPcSFXlXQWw" x="940" y="40" width="120"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_E2jOUAcXEeuAPcSFXlXQWw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_E2jOUgcXEeuAPcSFXlXQWw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_E2jOUwcXEeuAPcSFXlXQWw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_E2j1YAcXEeuAPcSFXlXQWw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_E2j1YQcXEeuAPcSFXlXQWw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_IPankAcXEeuAPcSFXlXQWw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_E2hZIAcXEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_IPankQcXEeuAPcSFXlXQWw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_IPpREAcXEeuAPcSFXlXQWw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_E2hZIQcXEeuAPcSFXlXQWw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_IPpREQcXEeuAPcSFXlXQWw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_E2j1YgcXEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_E2j1YwcXEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_E2j1ZAcXEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E2j1ZQcXEeuAPcSFXlXQWw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_E2j1ZgcXEeuAPcSFXlXQWw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_E2j1ZwcXEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_E2j1aAcXEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_E2j1aQcXEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E2j1agcXEeuAPcSFXlXQWw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_E2j1awcXEeuAPcSFXlXQWw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_E2j1bAcXEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_E2j1bQcXEeuAPcSFXlXQWw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_E2j1bgcXEeuAPcSFXlXQWw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E2j1bwcXEeuAPcSFXlXQWw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_E2gyEAcXEeuAPcSFXlXQWw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_E2jOUQcXEeuAPcSFXlXQWw" x="1080" y="40"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_cc7ZEQP-EeuNYqSDYTHBdg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_cc7ZEgP-EeuNYqSDYTHBdg"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_cc7ZEwP-EeuNYqSDYTHBdg" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    <edges xmi:type="notation:Connector" xmi:id="_VgZkMAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHrVYAP-EeuNYqSDYTHBdg" target="_iHqHUQP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_VgaLQAcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ZKJ5IAcREeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_VgaLQQcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_VgZkMQcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_VgJskAcREeuAPcSFXlXQWw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VgZkMgcREeuAPcSFXlXQWw" points="[330, 818, -643984, -643984]$[330, 780, -643984, -643984]$[175, 780, -643984, -643984]$[175, 736, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Vg4FUAcREeuAPcSFXlXQWw" id="(0.5166051660516605,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Vg4FUQcREeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_szPYkAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHmc8gP-EeuNYqSDYTHBdg" target="_iHqHUQP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_szRNwAcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MpA6gAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_szRNwQcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_szPYkQcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHknsQP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_szPYkgcREeuAPcSFXlXQWw" points="[15, 818, -643984, -643984]$[15, 783, -643984, -643984]$[175, 783, -643984, -643984]$[175, 736, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_szw9AAcREeuAPcSFXlXQWw" id="(0.4981549815498155,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_szw9AQcREeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_trWFQAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHqHUQP-EeuNYqSDYTHBdg" target="_iHnD_wP-EeuNYqSDYTHBdg" routing="Rectilinear">
+      <children xmi:type="notation:DecorationNode" xmi:id="_trWsUAcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MpZVAAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_trWsUQcREeuAPcSFXlXQWw" x="-100" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_trWFQQcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHkAoQP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_trWFQgcREeuAPcSFXlXQWw" points="[265, 670, -643984, -643984]$[265, 636, -643984, -643984]$[205, 636, -643984, -643984]$[205, 601, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tryKIAcREeuAPcSFXlXQWw" id="(0.4981549815498155,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tryKIQcREeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_uYbNsAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHnD_wP-EeuNYqSDYTHBdg" target="_iHo5KgP-EeuNYqSDYTHBdg" routing="Tree">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OsVlUA42Eeu02tjlZ0AV8Q" source="PapyrusCSSForceValue">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OsVlUQ42Eeu02tjlZ0AV8Q" key="routing" value="true"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_uYb0wgcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MpNu0AcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_uYb0wwcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_uYb0wAcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHjZkwP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_uYb0wQcREeuAPcSFXlXQWw" points="[230, 520, -643984, -643984]$[230, 490, -643984, -643984]$[335, 490, -643984, -643984]$[335, 446, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uY1dYAcREeuAPcSFXlXQWw" id="(0.7011070110701108,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uY1dYQcREeuAPcSFXlXQWw" id="(0.44280442804428044,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_vF4JkAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHoSEAP-EeuNYqSDYTHBdg" target="_iHo5KgP-EeuNYqSDYTHBdg" routing="Tree">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OsVlUg42Eeu02tjlZ0AV8Q" source="PapyrusCSSForceValue">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OsVlUw42Eeu02tjlZ0AV8Q" key="routing" value="true"/>
+      </eAnnotations>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vF4wogcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MpolkAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vF4wowcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_vF4woAcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHkApAP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vF4woQcREeuAPcSFXlXQWw" points="[410, 520, -643984, -643984]$[410, 490, -643984, -643984]$[325, 490, -643984, -643984]$[325, 461, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vGTAUAcREeuAPcSFXlXQWw" id="(0.5029585798816568,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vGTAUQcREeuAPcSFXlXQWw" id="(0.44280442804428044,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_v8bXEAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHquUAP-EeuNYqSDYTHBdg" target="_iHoSJAP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_v8b-IgcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_0csRsAcbEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_v8b-IwcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_v8b-IAcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHhkYQP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_v8b-IQcREeuAPcSFXlXQWw" points="[330, 180, -643984, -643984]$[330, 145, -643984, -643984]$[330, 145, -643984, -643984]$[330, 106, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_v8204AcREeuAPcSFXlXQWw" id="(0.4981549815498155,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_v83b8AcREeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_w_-ewAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHr8cAP-EeuNYqSDYTHBdg" target="_iHoSJAP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_w__F0AcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_0NHkoAcbEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_w__F0QcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_w_-ewQcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHiygwP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_w_-ewgcREeuAPcSFXlXQWw" points="[45, 180, -643984, -643984]$[45, 145, -643984, -643984]$[330, 145, -643984, -643984]$[330, 106, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xAc_4AcREeuAPcSFXlXQWw" id="(0.5904059040590406,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xAc_4QcREeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_yJRpIAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHnrAAP-EeuNYqSDYTHBdg" target="_iHl10AP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_yJRpIwcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MomDwAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_yJRpJAcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_yJRpIQcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHjZlQP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yJRpIgcREeuAPcSFXlXQWw" points="[845, 520, -643984, -643984]$[845, 490, -643984, -643984]$[928, 490, -643984, -643984]$[928, 461, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yJtuAAcREeuAPcSFXlXQWw" id="(0.7380073800738007,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yJtuAQcREeuAPcSFXlXQWw" id="(0.4907749077490775,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_y05ZAAcREeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHpgPwP-EeuNYqSDYTHBdg" target="_iHl10AP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_y05ZAwcREeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Mo0GMAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y05ZBAcREeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_y05ZAQcREeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_iHiLcQP-EeuNYqSDYTHBdg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y05ZAgcREeuAPcSFXlXQWw" points="[1065, 520, -643984, -643984]$[1065, 490, -643984, -643984]$[928, 490, -643984, -643984]$[928, 446, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y1P-UAcREeuAPcSFXlXQWw" id="(0.4612546125461255,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y1P-UQcREeuAPcSFXlXQWw" id="(0.4907749077490775,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_OVwJIAcWEeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHo5KgP-EeuNYqSDYTHBdg" target="_GalpYAcWEeuAPcSFXlXQWw" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_OVwJIwcWEeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_S_nQMAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OVwJJAcWEeuAPcSFXlXQWw" y="175"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_OVwJIQcWEeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_OVki8AcWEeuAPcSFXlXQWw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_OVwJIgcWEeuAPcSFXlXQWw" points="[335, 365, -643984, -643984]$[335, 310, -643984, -643984]$[640, 310, -643984, -643984]$[640, 261, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OWH8kAcWEeuAPcSFXlXQWw" id="(0.4612546125461255,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OWIjoAcWEeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_PO7z4AcWEeuAPcSFXlXQWw" type="Generalization_Edge" source="_iHl10AP-EeuNYqSDYTHBdg" target="_GalpYAcWEeuAPcSFXlXQWw" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_PO7z4wcWEeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_S_0rkAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_PO7z5AcWEeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_PO7z4QcWEeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_POw0wAcWEeuAPcSFXlXQWw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_PO7z4gcWEeuAPcSFXlXQWw" points="[925, 365, -643984, -643984]$[925, 310, -643984, -643984]$[640, 310, -643984, -643984]$[640, 261, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PPU1cAcWEeuAPcSFXlXQWw" id="(0.4981549815498155,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_PPU1cQcWEeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_Qq7QwAcWEeuAPcSFXlXQWw" type="Generalization_Edge" source="_GalpYAcWEeuAPcSFXlXQWw" target="_iHoSJAP-EeuNYqSDYTHBdg" routing="Tree">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Qq7QwwcWEeuAPcSFXlXQWw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_S_YmsAcWEeuAPcSFXlXQWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Qq7QxAcWEeuAPcSFXlXQWw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_Qq7QwQcWEeuAPcSFXlXQWw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_QquccAcWEeuAPcSFXlXQWw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Qq7QwgcWEeuAPcSFXlXQWw" points="[640, 180, -643984, -643984]$[640, 140, -643984, -643984]$[330, 140, -643984, -643984]$[330, 106, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QrWukAcWEeuAPcSFXlXQWw" id="(0.4981549815498155,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QrXVoAcWEeuAPcSFXlXQWw" id="(0.4981549815498155,1.0)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_F4TaQA7uEeuI0q71KlRkVw" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#05." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_aS-5QA7vEeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_aS-5Qg7vEeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_aS-5Qw7vEeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aS-5RA7vEeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_aS-5RQ7vEeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_a2iSQA7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoxUQJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_a2iSQQ7vEeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_a2kugA7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoxUgJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_a2kugQ7vEeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_aS-5Rg7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_aS-5Rw7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_aS-5SA7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aS-5SQ7vEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_aS_gUA7vEeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_aS_gUQ7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_aS_gUg7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_aS_gUw7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aS_gVA7vEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_aS_gVQ7vEeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_aS_gVg7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_aS_gVw7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_aS_gWA7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aS_gWQ7vEeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_TnoxUAJnEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aS-5QQ7vEeuI0q71KlRkVw" x="500" y="100"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_bqT4kA7vEeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_bqT4kg7vEeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_bqT4kw7vEeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bqT4lA7vEeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bqT4lQ7vEeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_cSmAkA7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQQJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cSmAkQ7vEeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_cSpD4A7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQgJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cSpD4Q7vEeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_cSsuQA7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQwJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cSsuQQ7vEeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_bqT4lg7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_bqT4lw7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_bqT4mA7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqT4mQ7vEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bqUfoA7vEeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_bqUfoQ7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_bqUfog7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_bqUfow7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqUfpA7vEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_bqUfpQ7vEeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_bqUfpg7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_bqUfpw7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_bqUfqA7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqUfqQ7vEeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_TnoKQAJnEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bqT4kQ7vEeuI0q71KlRkVw" x="180" y="180"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_fFFWUA7vEeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_fFFWUg7vEeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_fFFWUw7vEeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fFFWVA7vEeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fFFWVQ7vEeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_fuHsQA7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Tnp_cQJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_fuHsQQ7vEeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_fuL9sA7vEeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Tnp_cgJnEeuL5qSweHC6Hw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_fuL9sQ7vEeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fFFWVg7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fFFWVw7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fFFWWA7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFFWWQ7vEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fFFWWg7vEeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fFFWWw7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fFFWXA7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fFFWXQ7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFFWXg7vEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fFFWXw7vEeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fFFWYA7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fFFWYQ7vEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fFFWYg7vEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFFWYw7vEeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_Tnp_cAJnEeuL5qSweHC6Hw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fFFWUQ7vEeuI0q71KlRkVw" x="500" y="300"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_F4TaQQ7uEeuI0q71KlRkVw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_F4TaQg7uEeuI0q71KlRkVw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_F4TaQw7uEeuI0q71KlRkVw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    <edges xmi:type="notation:Connector" xmi:id="_nQw-UA7vEeuI0q71KlRkVw" type="Generalization_Edge" source="_fFFWUA7vEeuI0q71KlRkVw" target="_aS-5QA7vEeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_nQxlYg7vEeuI0q71KlRkVw" type="Generalization_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_nQxlYw7vEeuI0q71KlRkVw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_nQxlYA7vEeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_8SuDgASOEeui14F2MVxGJw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nQxlYQ7vEeuI0q71KlRkVw" points="[580, 300, -643984, -643984]$[580, 212, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nRA18A7vEeuI0q71KlRkVw" id="(0.5517241379310345,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nRA18Q7vEeuI0q71KlRkVw" id="(0.6060606060606061,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_rMEWQA7vEeuI0q71KlRkVw" type="Association_Edge" source="_aS-5QA7vEeuI0q71KlRkVw" target="_bqT4kA7vEeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_rMEWQw7vEeuI0q71KlRkVw" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rgcq0A7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rMEWRA7vEeuI0q71KlRkVw" y="-19"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_rMEWRQ7vEeuI0q71KlRkVw" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rgg8QA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rMEWRg7vEeuI0q71KlRkVw" x="-1" y="18"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_rMEWRw7vEeuI0q71KlRkVw" type="Association_TargetRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rgkmoA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rMEWSA7vEeuI0q71KlRkVw" x="39" y="-25"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_rMEWSQ7vEeuI0q71KlRkVw" type="Association_SourceRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rgo4EA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rMEWSg7vEeuI0q71KlRkVw" x="-15" y="-37"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_rMEWSw7vEeuI0q71KlRkVw" type="Association_SourceMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rgtJgA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rMEWTA7vEeuI0q71KlRkVw" x="45" y="17"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_rMEWTQ7vEeuI0q71KlRkVw" type="Association_TargetMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rgxa8A7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rMEWTg7vEeuI0q71KlRkVw" x="-15" y="16"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_rMEWQQ7vEeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Association" href="ConceptualModelingPapyrusGameSeries.uml#_rLz3kA7vEeuI0q71KlRkVw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rMEWQg7vEeuI0q71KlRkVw" points="[500, 160, -643984, -643984]$[240, 140, -643984, -643984]$[240, 180, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rMS_wA7vEeuI0q71KlRkVw" id="(0.0,0.35714285714285715)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_rMTm0A7vEeuI0q71KlRkVw" id="(0.5084745762711864,0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_wEZXIA7vEeuI0q71KlRkVw" type="Association_Edge" source="_bqT4kA7vEeuI0q71KlRkVw" target="_fFFWUA7vEeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_wEZXIw7vEeuI0q71KlRkVw" type="Association_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_w56p4A7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wEZXJA7vEeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wEZXJQ7vEeuI0q71KlRkVw" type="Association_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_w5_iYA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wEZXJg7vEeuI0q71KlRkVw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wEZXJw7vEeuI0q71KlRkVw" type="Association_TargetRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_w6Dz0A7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wEZXKA7vEeuI0q71KlRkVw" x="17" y="-45"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wEZ-MA7vEeuI0q71KlRkVw" type="Association_SourceRoleLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_w6IFQA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wEZ-MQ7vEeuI0q71KlRkVw" x="-50" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wEZ-Mg7vEeuI0q71KlRkVw" type="Association_SourceMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_w6MWsA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wEZ-Mw7vEeuI0q71KlRkVw" x="17" y="11"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wEZ-NA7vEeuI0q71KlRkVw" type="Association_TargetMultiplicityLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_w6QoIA7vEeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wEZ-NQ7vEeuI0q71KlRkVw" x="-50" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_wEZXIQ7vEeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Association" href="ConceptualModelingPapyrusGameSeries.uml#_wEMi0A7vEeuI0q71KlRkVw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wEZXIg7vEeuI0q71KlRkVw" points="[240, 308, -643984, -643984]$[240, 380, -643984, -643984]$[500, 380, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wEmygA7vEeuI0q71KlRkVw" id="(0.5084745762711864,1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wEnZkA7vEeuI0q71KlRkVw" id="(0.0,0.7142857142857143)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_7FNcYA7zEeuI0q71KlRkVw" type="PapyrusUMLClassDiagram" name="ConceptualModelingPapyrusGame-Level#08." measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="__SofEA7zEeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="__SofEg7zEeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="__SofEw7zEeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="__SofFA7zEeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="__SpGIA7zEeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_JuhPIA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_JudkwA70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JuhPIQ70EeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_NzBmYA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Ny8G0A70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_NzBmYQ70EeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="__SpGIQ7zEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="__SpGIg7zEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="__SpGIw7zEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__SpGJA7zEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="__SpGJQ7zEeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="__SpGJg7zEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="__SpGJw7zEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="__SpGKA7zEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__SpGKQ7zEeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="__SpGKg7zEeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="__SpGKw7zEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="__SpGLA7zEeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="__SpGLQ7zEeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__SpGLg7zEeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#__SnQ8A7zEeuI0q71KlRkVw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="__SofEQ7zEeuI0q71KlRkVw" x="600" y="240" width="141" height="161"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_Ap5M8A70EeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Ap5M8g70EeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_Ap5M8w70EeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ap5M9A70EeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Ap5M9Q70EeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_Rf79AA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Rf4SoA70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Rf79AQ70EeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_SPkDIA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_SPgYwA70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_SPkDIQ70EeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Ap5M9g70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Ap5M9w70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Ap5M-A70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ap5M-Q70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Ap5M-g70EeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Ap5M-w70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Ap5M_A70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Ap5M_Q70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ap5M_g70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_Ap5M_w70EeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_Ap5NAA70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_Ap5NAQ70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_Ap5NAg70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ap5NAw70EeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_Ap3-0A70EeuI0q71KlRkVw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ap5M8Q70EeuI0q71KlRkVw" x="500" y="40" width="141" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_B_MzAA70EeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_B_NaEA70EeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_B_NaEQ70EeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_B_NaEg70EeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_B_NaEw70EeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_TimYUA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_Tiit8A70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_TimYUQ70EeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_UKJggA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_UKFPEA70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_UKJggQ70EeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_B_NaFA70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_B_NaFQ70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_B_NaFg70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B_NaFw70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_B_NaGA70EeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_B_NaGQ70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_B_NaGg70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_B_NaGw70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B_NaHA70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_B_NaHQ70EeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_B_NaHg70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_B_NaHw70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_B_NaIA70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B_NaIQ70EeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_B_Lk4A70EeuI0q71KlRkVw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B_MzAQ70EeuI0q71KlRkVw" x="700" y="40" width="141" height="121"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_X_TNIA70EeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_X_TNIg70EeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_X_TNIw70EeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_X_T0MA70EeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_X_T0MQ70EeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_aIj_sA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_aIgVUA70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_aIj_sQ70EeuI0q71KlRkVw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_a1G8oA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_a1CrMA70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_a1G8oQ70EeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_X_T0Mg70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_X_T0Mw70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_X_T0NA70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X_T0NQ70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_X_T0Ng70EeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_CQ8YYA72EeuI0q71KlRkVw" type="Operation_ClassOperationLabel">
+          <element xmi:type="uml:Operation" href="ConceptualModelingPapyrusGameSeries.uml#_CQ0ckA72EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_CQ8YYQ72EeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_X_T0Nw70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_X_T0OA70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_X_T0OQ70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X_T0Og70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_X_T0Ow70EeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_X_T0PA70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_X_T0PQ70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_X_T0Pg70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X_T0Pw70EeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_X_SmEA70EeuI0q71KlRkVw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X_TNIQ70EeuI0q71KlRkVw" x="340" y="240" width="141" height="161"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_fGX9gA70EeuI0q71KlRkVw" type="Class_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_fGX9gg70EeuI0q71KlRkVw" type="Class_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_fGX9gw70EeuI0q71KlRkVw" type="Class_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fGX9hA70EeuI0q71KlRkVw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fGX9hQ70EeuI0q71KlRkVw" type="Class_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_h8RzoA70EeuI0q71KlRkVw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="ConceptualModelingPapyrusGameSeries.uml#_h8LF8A70EeuI0q71KlRkVw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_h8RzoQ70EeuI0q71KlRkVw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fGX9hg70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fGX9hw70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fGX9iA70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGX9iQ70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fGX9ig70EeuI0q71KlRkVw" type="Class_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fGX9iw70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fGX9jA70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fGX9jQ70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGX9jg70EeuI0q71KlRkVw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_fGX9jw70EeuI0q71KlRkVw" type="Class_NestedClassifierCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_fGX9kA70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_fGX9kQ70EeuI0q71KlRkVw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_fGX9kg70EeuI0q71KlRkVw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGX9kw70EeuI0q71KlRkVw"/>
+      </children>
+      <element xmi:type="uml:Class" href="ConceptualModelingPapyrusGameSeries.uml#_fGWvYA70EeuI0q71KlRkVw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGX9gQ70EeuI0q71KlRkVw" x="80" y="240" width="141" height="161"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_7FODcA7zEeuI0q71KlRkVw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_7FODcQ7zEeuI0q71KlRkVw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_7FODcg7zEeuI0q71KlRkVw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    </styles>
+    <element xmi:type="uml:Model" href="ConceptualModelingPapyrusGameSeries.uml#_CQa4MGgnEeqeBa8ptN582w"/>
+    <edges xmi:type="notation:Connector" xmi:id="_FHs1AA70EeuI0q71KlRkVw" type="Generalization_Edge" source="__SofEA7zEeuI0q71KlRkVw" target="_B_MzAA70EeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_FHs1Aw70EeuI0q71KlRkVw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_GF7-4A70EeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FHs1BA70EeuI0q71KlRkVw" y="39"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_FHs1AQ70EeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_FHpKoA70EeuI0q71KlRkVw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FHs1Ag70EeuI0q71KlRkVw" points="[680, 240, -643984, -643984]$[740, 161, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FHy7oA70EeuI0q71KlRkVw" id="(0.5673758865248227,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FHy7oQ70EeuI0q71KlRkVw" id="(0.425531914893617,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_FnzRYA70EeuI0q71KlRkVw" type="Generalization_Edge" source="__SofEA7zEeuI0q71KlRkVw" target="_Ap5M8A70EeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Fnz4cA70EeuI0q71KlRkVw" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_GF_CMA70EeuI0q71KlRkVw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Fnz4cQ70EeuI0q71KlRkVw" x="1" y="38"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_FnzRYQ70EeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Generalization" href="ConceptualModelingPapyrusGameSeries.uml#_FnwOEA70EeuI0q71KlRkVw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FnzRYg70EeuI0q71KlRkVw" points="[660, 240, -643984, -643984]$[560, 161, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Fn5_EA70EeuI0q71KlRkVw" id="(0.425531914893617,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Fn5_EQ70EeuI0q71KlRkVw" id="(0.425531914893617,1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_o1DpUA70EeuI0q71KlRkVw" type="Association_Edge" source="_X_TNIA70EeuI0q71KlRkVw" target="__SofEA7zEeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_o1DpUw70EeuI0q71KlRkVw" type="Association_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1DpVA70EeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_o1DpVQ70EeuI0q71KlRkVw" type="Association_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1DpVg70EeuI0q71KlRkVw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_o1DpVw70EeuI0q71KlRkVw" type="Association_TargetRoleLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1DpWA70EeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_o1DpWQ70EeuI0q71KlRkVw" type="Association_SourceRoleLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1DpWg70EeuI0q71KlRkVw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_o1DpWw70EeuI0q71KlRkVw" type="Association_SourceMultiplicityLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1DpXA70EeuI0q71KlRkVw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_o1DpXQ70EeuI0q71KlRkVw" type="Association_TargetMultiplicityLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_o1DpXg70EeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_o1DpUQ70EeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Association" href="ConceptualModelingPapyrusGameSeries.uml#_o08UkA70EeuI0q71KlRkVw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_o1DpUg70EeuI0q71KlRkVw" points="[481, 320, -643984, -643984]$[600, 320, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_o1RrwA70EeuI0q71KlRkVw" id="(1.0,0.4968944099378882)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_o1RrwQ70EeuI0q71KlRkVw" id="(0.0,0.4968944099378882)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_peYTIA70EeuI0q71KlRkVw" type="Association_Edge" source="_fGX9gA70EeuI0q71KlRkVw" target="_X_TNIA70EeuI0q71KlRkVw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_peYTIw70EeuI0q71KlRkVw" type="Association_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_peYTJA70EeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_peYTJQ70EeuI0q71KlRkVw" type="Association_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_peYTJg70EeuI0q71KlRkVw" x="5" y="45"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_peYTJw70EeuI0q71KlRkVw" type="Association_TargetRoleLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_peYTKA70EeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_peYTKQ70EeuI0q71KlRkVw" type="Association_SourceRoleLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_peYTKg70EeuI0q71KlRkVw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_peYTKw70EeuI0q71KlRkVw" type="Association_SourceMultiplicityLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_peYTLA70EeuI0q71KlRkVw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_peYTLQ70EeuI0q71KlRkVw" type="Association_TargetMultiplicityLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_peYTLg70EeuI0q71KlRkVw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_peYTIQ70EeuI0q71KlRkVw"/>
+      <element xmi:type="uml:Association" href="ConceptualModelingPapyrusGameSeries.uml#_peQXUA70EeuI0q71KlRkVw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_peYTIg70EeuI0q71KlRkVw" points="[221, 340, -643984, -643984]$[340, 320, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pelugA70EeuI0q71KlRkVw" id="(1.0,0.4968944099378882)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pelugQ70EeuI0q71KlRkVw" id="(0.0,0.4968944099378882)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>

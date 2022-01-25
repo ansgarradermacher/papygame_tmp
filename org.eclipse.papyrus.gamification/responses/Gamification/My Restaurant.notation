@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_ATmQsF4XEeq7sNhC-bRl0w" type="PapyrusUMLClassDiagram" name="Customers" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_DtztwF4XEeq7sNhC-bRl0w" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_Dt1i8F4XEeq7sNhC-bRl0w" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Dt2KAF4XEeq7sNhC-bRl0w" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Dt2KAV4XEeq7sNhC-bRl0w" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Dt2KAl4XEeq7sNhC-bRl0w" type="Class_AttributeCompartment">
+        <eAnnotations xmi:id="_IPvA0F4XEeq7sNhC-bRl0w" source="PapyrusCSSForceValue">
+          <details xmi:id="_IPvA0V4XEeq7sNhC-bRl0w" key="visible" value="true"/>
+        </eAnnotations>
+        <children xsi:type="notation:Shape" xmi:id="_IQBUsF4XEeq7sNhC-bRl0w" type="Property_ClassAttributeLabel">
+          <element href="My%20Restaurant.uml#_IP8cMF4XEeq7sNhC-bRl0w"/>
+          <layoutConstraint xsi:type="notation:Location" xmi:id="_IQBUsV4XEeq7sNhC-bRl0w"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_IQIpcF4XEeq7sNhC-bRl0w" type="Property_ClassAttributeLabel">
+          <element href="My%20Restaurant.uml#_IQGNMF4XEeq7sNhC-bRl0w"/>
+          <layoutConstraint xsi:type="notation:Location" xmi:id="_IQIpcV4XEeq7sNhC-bRl0w"/>
+        </children>
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Dt2KA14XEeq7sNhC-bRl0w"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Dt2KBF4XEeq7sNhC-bRl0w"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Dt2KBV4XEeq7sNhC-bRl0w"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Dt2KBl4XEeq7sNhC-bRl0w"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Dt3YIF4XEeq7sNhC-bRl0w" visible="false" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Dt3YIV4XEeq7sNhC-bRl0w"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Dt3YIl4XEeq7sNhC-bRl0w"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Dt3YI14XEeq7sNhC-bRl0w"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Dt3YJF4XEeq7sNhC-bRl0w"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Dt3YJV4XEeq7sNhC-bRl0w" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Dt3YJl4XEeq7sNhC-bRl0w"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Dt3YJ14XEeq7sNhC-bRl0w"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Dt3YKF4XEeq7sNhC-bRl0w"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Dt3YKV4XEeq7sNhC-bRl0w"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Dt9ewF4XEeq7sNhC-bRl0w" visible="false" type="compartment_shape_display">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Dt9ewV4XEeq7sNhC-bRl0w"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Dt9ewl4XEeq7sNhC-bRl0w"/>
+      </children>
+      <element href="My%20Restaurant.uml#_Dtu1QF4XEeq7sNhC-bRl0w"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Dt0U0F4XEeq7sNhC-bRl0w" x="80" y="60" width="161" height="61"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_ATmQsV4XEeq7sNhC-bRl0w" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_ATmQsl4XEeq7sNhC-bRl0w"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_ATmQs14XEeq7sNhC-bRl0w" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="My%20Restaurant.uml#_-AovkF4WEeq7sNhC-bRl0w"/>
+    </styles>
+    <element href="My%20Restaurant.uml#_-AovkF4WEeq7sNhC-bRl0w"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_iiRZIF4aEeqxtfXOPvKrpQ" type="PapyrusUMLClassDiagram" name="Step1" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_jvgBQF4aEeqxtfXOPvKrpQ" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_jvmu8F4aEeqxtfXOPvKrpQ" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_jvmu8V4aEeqxtfXOPvKrpQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_jvnWAF4aEeqxtfXOPvKrpQ" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_jvnWAV4aEeqxtfXOPvKrpQ" type="Class_AttributeCompartment">
+        <eAnnotations xmi:id="_753TgF4aEeqxtfXOPvKrpQ" source="PapyrusCSSForceValue">
+          <details xmi:id="_753TgV4aEeqxtfXOPvKrpQ" key="visible" value="true"/>
+        </eAnnotations>
+        <children xsi:type="notation:Shape" xmi:id="_NebdsGbzEeqAlOn7t3C1vQ" type="Property_ClassAttributeLabel">
+          <element href="My%20Restaurant.uml#_NeWlMGbzEeqAlOn7t3C1vQ"/>
+          <layoutConstraint xsi:type="notation:Location" xmi:id="_NebdsWbzEeqAlOn7t3C1vQ"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_a0xzwGbzEeqAlOn7t3C1vQ" type="Property_ClassAttributeLabel">
+          <element href="My%20Restaurant.uml#_a0uJYGbzEeqAlOn7t3C1vQ"/>
+          <layoutConstraint xsi:type="notation:Location" xmi:id="_a0xzwWbzEeqAlOn7t3C1vQ"/>
+        </children>
+        <styles xsi:type="notation:TitleStyle" xmi:id="_jvnWAl4aEeqxtfXOPvKrpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_jvnWA14aEeqxtfXOPvKrpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_jvnWBF4aEeqxtfXOPvKrpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jvnWBV4aEeqxtfXOPvKrpQ"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_jvpLMF4aEeqxtfXOPvKrpQ" visible="false" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_jvpLMV4aEeqxtfXOPvKrpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_jvpLMl4aEeqxtfXOPvKrpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_jvpLM14aEeqxtfXOPvKrpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jvpLNF4aEeqxtfXOPvKrpQ"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_jvpLNV4aEeqxtfXOPvKrpQ" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_jvpyQF4aEeqxtfXOPvKrpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_jvpyQV4aEeqxtfXOPvKrpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_jvpyQl4aEeqxtfXOPvKrpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jvpyQ14aEeqxtfXOPvKrpQ"/>
+      </children>
+      <element href="My%20Restaurant.uml#_jvVCIF4aEeqxtfXOPvKrpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_jvgBQV4aEeqxtfXOPvKrpQ" x="200" y="160" width="181" height="81"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_Y79HcGYjEeq1uYiZdtSwgg" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_Y8AKwGYjEeq1uYiZdtSwgg" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_Y8AKwWYjEeq1uYiZdtSwgg" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Y8Ax0GYjEeq1uYiZdtSwgg" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Y8Ax0WYjEeq1uYiZdtSwgg" visible="false" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Y8Ax0mYjEeq1uYiZdtSwgg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Y8Ax02YjEeq1uYiZdtSwgg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Y8Ax1GYjEeq1uYiZdtSwgg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Y8Ax1WYjEeq1uYiZdtSwgg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Y8DOEGYjEeq1uYiZdtSwgg" visible="false" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Y8DOEWYjEeq1uYiZdtSwgg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Y8DOEmYjEeq1uYiZdtSwgg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Y8DOE2YjEeq1uYiZdtSwgg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Y8DOFGYjEeq1uYiZdtSwgg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Y8D1IGYjEeq1uYiZdtSwgg" visible="false" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Y8D1IWYjEeq1uYiZdtSwgg"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_Y8D1ImYjEeq1uYiZdtSwgg"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_Y8D1I2YjEeq1uYiZdtSwgg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Y8D1JGYjEeq1uYiZdtSwgg"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_Y8NmIGYjEeq1uYiZdtSwgg" visible="false" type="compartment_shape_display">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_Y8NmIWYjEeq1uYiZdtSwgg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Y8NmImYjEeq1uYiZdtSwgg"/>
+      </children>
+      <element href="My%20Restaurant.uml#_Y7J2MGYjEeq1uYiZdtSwgg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Y79HcWYjEeq1uYiZdtSwgg" x="560" y="120" height="30"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_iiRZIV4aEeqxtfXOPvKrpQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_iiRZIl4aEeqxtfXOPvKrpQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_iiRZI14aEeqxtfXOPvKrpQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="My%20Restaurant.uml#_-AovkF4WEeq7sNhC-bRl0w"/>
+    </styles>
+    <element href="My%20Restaurant.uml#_-AovkF4WEeq7sNhC-bRl0w"/>
+  </notation:Diagram>
+</xmi:XMI>

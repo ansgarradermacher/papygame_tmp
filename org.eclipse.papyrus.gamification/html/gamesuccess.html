@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Level 2</title>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/1f712cb951.js" crossorigin="anonymous"></script>
+
+    <style>
+        html {
+            height: 100%;
+        }
+
+        body {
+            background: #f7f7f7;
+            font-family: 'Share Tech Mono', monospace;
+            display: flex;
+            vertical-align: middle;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
+        #content {
+            display: inline-block;
+            margin-left: 20px;
+        }
+
+        #levelLabel {
+            text-transform: uppercase;
+            font-size: 3em;
+            margin: 0;
+            color: #809E09;
+        }
+
+        #levelLabel:before {
+            font-family: "Font Awesome 5 Free";
+            content: '\f00c';
+            display: inline-block;
+            vertical-align: middle;
+            font-weight: 900;
+            padding-bottom: 10px;
+            margin-right: 10px;
+            font-size: 0.7em;
+        }
+
+
+        #rewards {
+            font-size: 2em;
+        }
+
+        #statistics {
+            margin-top: 8px;
+            font-size: 1.1em;
+        }
+
+        #statistics > p {
+            display: inline-block;
+            margin: 0 15px 0 0;
+        }
+
+        #statistics > p > i {
+            margin-right: 5px;
+        }
+
+        p.xp {
+            margin: 0;
+            color: #273C66;
+            display: inline;
+        }
+
+        .fa-coins {
+            color: #ffa500;
+        }
+
+        .fa-trophy {
+            font-size: 9em;
+            display: inline-block;
+            color: #273C66;
+        }
+
+        #resumeToDashboard {
+            padding: 12px 30px;
+            font-size: 1em;
+            margin-top: 10px;
+            text-transform: uppercase;
+            float: right;
+            letter-spacing: 0.05em;
+            font-family: 'Share Tech Mono', monospace;
+            background: #273C66;
+            border-radius: 3px;
+            border: none;
+            color: white;
+            cursor: pointer;
+            transition: 0.1s;
+        }
+
+        #resumeToDashboard:hover {
+            background: #3f7fc0;
+            transition: 0.1s;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <div>
+        <i class="fas fa-trophy"></i>
+        <div id="content">
+            <p id="levelLabel">Level 3</p>
+            <div id="rewards">You earned 3 <i class="fas fa-coins"></i> and 222<p class="xp">XP</p></div>
+            <div id="statistics">
+                <p id="moves"><i class="fas fa-hand-point-right"></i>3 moves</p>
+                <p id="errors"><i class="fas fa-times-circle"></i>2 errors</p>
+                <p id="time"><i class="fas fa-stopwatch"></i>243 seconds</p>
+            </div>
+        </div>
+    </div>
+    <button id="resumeToDashboard" onclick="resumeToDashboard()" class="button button1">Resume to dashboard <i
+            class="fas fa-arrow-right"></i></button>
+</div>
+
+</body>
+
+<script>
+    window.onload = function () {
+        pageLoaded();
+    }
+
+    function displayResults(result){
+        document.getElementById("levelLabel").innerHTML = result.levelLabel;
+        document.getElementById("rewards").innerHTML = "You earned "+result.earnedGoldCoins+" <i class=\"fas fa-coins\"></i> and "+result.earnedXP+" <p class=\"xp\">XP</p>";
+        document.getElementById("moves").innerHTML = "<i class=\"fas fa-hand-point-right\"></i>"+result.okMoves + " move(s)";
+        document.getElementById("errors").innerHTML = "<i class=\"fas fa-times-circle\"></i>"+result.errors + " error(s)";
+        document.getElementById("time").innerHTML = "<i class=\"fas fa-stopwatch\"></i>"+result.timeSpent + " seconds";
+
+    }
+</script>
+</html>

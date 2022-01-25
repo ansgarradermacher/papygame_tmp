@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="org.eclipse.papyrus">
+      
+   </description>
+   <feature url="features/PapyGameFeature_1.1.0.qualifier.jar" id="PapyGameFeature" version="1.1.0.qualifier" os="linux,macosx,win32">
+      <category name="gamificationforpapyrus"/>
+   </feature>
+   <category-def name="gamificationforpapyrus" label="Gamification Tool for Papyrus"/>
+</site>

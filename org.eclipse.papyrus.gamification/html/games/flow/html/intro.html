@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OYO</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://papygame.com/papyrus-plugin/css/videoStyle.css">
+    <link rel="stylesheet" href="https://papygame.com/papyrus-plugin/css/loaderStyle.css">
+
+    <script src="https://papygame.com/papyrus-plugin/js/videoScript.js"></script>
+    <script src="https://papygame.com/papyrus-plugin/js/loaderScript.js"></script>
+    <script src="https://papygame.com/papyrus-plugin/js/intro-script.js"></script>
+
+    <style>
+
+        .ready-button {
+            padding: 12px 30px;
+            font-size: 1em;
+            margin-top: 10px;
+            text-transform: uppercase;
+            float: right;
+            letter-spacing: 0.05em;
+            font-family: 'Share Tech Mono', monospace;
+            background: #273C66;
+            border-radius: 3px;
+            border: none;
+            color: white;
+            cursor: pointer;
+            transition: 0.1s;
+        }
+
+        .ready-button:hover{
+            background: #3f7fc0;
+transition: 0.1s;
+        }
+
+        .cancel-button {
+            padding: 12px 30px;
+            font-size: 1em;
+            margin-top: 10px;
+            text-transform: uppercase;
+            float: right;
+            letter-spacing: 0.05em;
+            font-family: 'Share Tech Mono', monospace;
+            background: #dcdcdc;
+            border-radius: 3px;
+            border: none;
+            color: black;
+            cursor: pointer;
+            transition: 0.1s;
+            margin-right: 10px;
+        }
+
+        .cancel-button:hover{
+            background: #cbcbcb;
+            transition: 0.1s;
+        }
+
+        html{
+            height: 100%;
+        }
+        body{
+            background: #f7f7f7;
+            font-family: 'Open Sans', sans-serif;
+            display: flex;
+            vertical-align: middle;
+            height: 100%;
+        }
+        #main-container {
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+            opacity: 0;
+            transition: 0.5s;
+        }
+
+        #levelContent{
+            border-left: 8px solid #809E09;
+            padding-left: 26px;
+            margin-bottom: 60px;
+        }
+
+        #gameStatement,
+        #levelStatement{
+            font-size: 0.8em;
+            line-height: 1.6em;
+        }
+
+        #levelStatement{
+            margin-top: 10px;
+        }
+        #seriesNames{
+            display: inline-block;
+            margin-left: 15px;
+            font-family: 'Share Tech Mono', monospace;
+        }
+
+        #levelLabel{
+            border: 2px solid #809E09;
+            display: inline-block;
+            padding: 10px 20px;
+            color: #809E09;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-family: 'Share Tech Mono', monospace;
+            margin: 0;
+        }
+
+        #gameName {
+            border: 2px solid #8e8e8e;
+            background: #ececec;
+            display: inline-block;
+            padding: 10px 20px;
+            color: #8e8e8e;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-family: 'Share Tech Mono', monospace;
+            margin: 0;
+        }
+
+        #gameRulesLabel {
+            display: inline-block;
+            margin-left: 15px;
+            font-family: 'Share Tech Mono', monospace;
+        }
+
+        p.code{
+            display: inline;
+            margin: 0;
+            padding: 0;
+            font-family: monospace;
+            font-size: 1.4em;
+            color: black;
+            font-weight: bold;
+        }
+
+        p.important{
+            display: inline;
+        }
+
+        .clues{
+            margin-top: 30px;
+            border: 2px solid #cccccc;
+            padding: 10px;
+            font-style: italic;
+        }
+
+        .clues-title{
+            background: #cccccc;
+            margin-top: -27px;
+            width: 100px;
+            text-align: center;
+            padding: 5px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-family: 'Share Tech Mono', monospace;
+            font-style: normal;
+            margin-bottom: 5px;
+        }
+
+        #papy-background{
+            position: absolute;
+            width: 900px;
+            top: 60px;
+            left: -250px;
+            z-index: -1;
+            transform: rotate(-90deg);
+            opacity: 0.05;
+        }
+    </style>
+</head>
+<body>
+<img src="https://papygame.com/papyrus-plugin/img/papygame.png" id="papy-background">
+<div id="main-container" style="overflow: auto">
+    <div id="levelContent">
+        <div><p id="levelLabel">Level 3</p>
+            <p id="seriesNames">Le nom de ma série</p></div>
+        <div id="levelStatement">
+        </div>
+    </div>
+    <div><p id="gameName">Flow</p>
+        <p id="gameRulesLabel">Game rules</p></div>
+    <p id="gameStatement">
+        Each level requires the definition of a certain type of elements to model <br> 
+        a <b>detailed UML class diagram</b> for the assigned system.
+    </p>
+
+    <button id="ready" style="visibility: hidden" class="button ready-button">I'm ready</button>
+    <button id="cancel" style="visibility: hidden" class="button cancel-button">Cancel</button>
+
+
+</div>
+</div>
+<div id="loader">
+    <img src="https://papygame.com/papyrus-plugin/img/papygame-blue.png"/>
+    <img src="https://papygame.com/papyrus-plugin/img/loader.svg" class="svg"/>
+</div>
+
+<div id="video-container"></div>
+<script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
+</body>
+</html>

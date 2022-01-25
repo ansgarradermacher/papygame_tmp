@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='Local Artifact Repository Collection' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1323486257091'/>
+    <property name='p2.compressed' value='true'/>
+  </properties>
+  <children size='3'>
+    <child location='http://dl.maketechnology.io/chromium-swt/rls/repository'/>
+    <child location='http://dl.maketechnology.io/chromium-cef/rls/repository'/>
+    <child location='http://papygame.com/papyrus-plugin/update-site'/>
+  </children>
+</repository>

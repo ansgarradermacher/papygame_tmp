@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+      <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="Gamification"
+            id="gamification">
+      </category>
+      <view
+            name="PapyGame"
+            icon="icons/sample.png"
+            class="org.eclipse.papyrus.gamification.view.MainView"
+            id="org.eclipse.papyrus.gamification.view"
+            category="gamification"
+            inject="true"
+            restorable="true">
+      </view>
+   </extension>
+   
+<extension
+      id="customide"
+      point="org.eclipse.core.runtime.products">
+   <product
+         application="org.eclipse.ui.ide.workbench"
+         name="Custom IDE">
+      <property
+            name="appName"
+            value="Custom IDE">
+      </property>
+   </product>
+</extension>
+</plugin>
